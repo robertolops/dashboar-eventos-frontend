@@ -1,0 +1,73 @@
+
+
+/* Chamada de estilos externos
+<link rel="stylesheet" href="..\css\estilos.css">
+*/
+
+/*
+p{
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+*/
+
+body{
+    font-family: Arial;
+font-size: 13px;
+    }
+
+/*
+.menu{
+    color:green;
+    font-family: verdana;
+    font-size: 14px;
+    font-weight: bold;      
+}
+*/
+
+/*
+ .fonte_especial{
+    color:indigo;
+    font-family: Impact;
+    font-size: 14px
+}
+*/
+
+/*
+#formulario_contato{
+    background-color: yellowgreen;
+}
+*/
+
+/*
+label{
+    color:rebeccapurple;
+    font-family: verdana;
+    font-size: 12px;   
+}
+*/
+
+/*
+.caixa_nome{
+    width: 250px;
+    background-color: sandybrown;
+    color:white;
+}
+*/
+
+/*
+.caixa_email{
+    width: 300px;
+    background-color: sandybrown;
+    color:white;
+}
+*/
+
+/*
+.caixa_senha{
+    width: 150px;
+    background-color: sandybrown;
+    color:white;
+}
+*/
